@@ -1,0 +1,7 @@
+#ignore everything
+*
+!*anomly_det.py
+# gitignore files are not usually included but I'm includeing it so you have
+# a starter file. You can leave it in your repo.
+!*.gitignore
+
